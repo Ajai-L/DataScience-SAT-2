@@ -1,0 +1,351 @@
+merchant_id,merchant_category,region
+MERCH_0001,Electronics,West
+MERCH_0002,Dining,East
+MERCH_0003,Travel & Hospitality,West
+MERCH_0004,Grocery,North
+MERCH_0005,Grocery,Central
+MERCH_0006,Grocery,East
+MERCH_0007,Grocery,Central
+MERCH_0008,Electronics,Central
+MERCH_0009,Gaming & Digital Goods,North
+MERCH_0010,Utilities,North
+MERCH_0011,Utilities,North
+MERCH_0012,Grocery,East
+MERCH_0013,Dining,North
+MERCH_0014,Grocery,North
+MERCH_0015,Dining,South
+MERCH_0016,Electronics,North
+MERCH_0017,Grocery,North
+MERCH_0018,Grocery,South
+MERCH_0019,Healthcare,North
+MERCH_0020,Electronics,South
+MERCH_0021,Dining,South
+MERCH_0022,Grocery,South
+MERCH_0023,Grocery,West
+MERCH_0024,Utilities,East
+MERCH_0025,Grocery,South
+MERCH_0026,Dining,South
+MERCH_0027,Grocery,West
+MERCH_0028,Electronics,West
+MERCH_0029,Grocery,West
+MERCH_0030,Utilities,East
+MERCH_0031,Utilities,North
+MERCH_0032,Gaming & Digital Goods,North
+MERCH_0033,Dining,North
+MERCH_0034,Utilities,Central
+MERCH_0035,Electronics,East
+MERCH_0036,Dining,West
+MERCH_0037,Travel & Hospitality,South
+MERCH_0038,Grocery,West
+MERCH_0039,Grocery,North
+MERCH_0040,Gaming & Digital Goods,North
+MERCH_0041,Grocery,South
+MERCH_0042,Travel & Hospitality,East
+MERCH_0043,Dining,South
+MERCH_0044,Utilities,West
+MERCH_0045,Healthcare,North
+MERCH_0046,Utilities,East
+MERCH_0047,Dining,South
+MERCH_0048,Grocery,South
+MERCH_0049,Electronics,West
+MERCH_0050,Grocery,West
+MERCH_0051,Grocery,West
+MERCH_0052,Electronics,West
+MERCH_0053,Electronics,West
+MERCH_0054,Healthcare,North
+MERCH_0055,Grocery,West
+MERCH_0056,Dining,South
+MERCH_0057,Grocery,North
+MERCH_0058,Utilities,North
+MERCH_0059,Gaming & Digital Goods,West
+MERCH_0060,Utilities,West
+MERCH_0061,Utilities,North
+MERCH_0062,Electronics,West
+MERCH_0063,Electronics,Central
+MERCH_0064,Dining,North
+MERCH_0065,Travel & Hospitality,North
+MERCH_0066,Electronics,West
+MERCH_0067,Electronics,North
+MERCH_0068,Healthcare,East
+MERCH_0069,Healthcare,North
+MERCH_0070,Gaming & Digital Goods,South
+MERCH_0071,Gaming & Digital Goods,West
+MERCH_0072,Jewellery,West
+MERCH_0073,Grocery,West
+MERCH_0074,Grocery,West
+MERCH_0075,Jewellery,West
+MERCH_0076,Gaming & Digital Goods,East
+MERCH_0077,Grocery,North
+MERCH_0078,Healthcare,East
+MERCH_0079,Grocery,North
+MERCH_0080,Dining,West
+MERCH_0081,Jewellery,South
+MERCH_0082,Grocery,East
+MERCH_0083,Grocery,North
+MERCH_0084,Dining,West
+MERCH_0085,Gaming & Digital Goods,West
+MERCH_0086,Dining,South
+MERCH_0087,Travel & Hospitality,West
+MERCH_0088,Travel & Hospitality,North
+MERCH_0089,Grocery,East
+MERCH_0090,Healthcare,West
+MERCH_0091,Grocery,South
+MERCH_0092,Healthcare,Central
+MERCH_0093,Electronics,North
+MERCH_0094,Healthcare,North
+MERCH_0095,Grocery,Central
+MERCH_0096,Electronics,North
+MERCH_0097,Grocery,Central
+MERCH_0098,Grocery,Central
+MERCH_0099,Travel & Hospitality,North
+MERCH_0100,Grocery,East
+MERCH_0101,Travel & Hospitality,North
+MERCH_0102,Grocery,South
+MERCH_0103,Dining,North
+MERCH_0104,Gaming & Digital Goods,North
+MERCH_0105,Dining,South
+MERCH_0106,Travel & Hospitality,South
+MERCH_0107,Travel & Hospitality,Central
+MERCH_0108,Utilities,West
+MERCH_0109,Dining,West
+MERCH_0110,Jewellery,East
+MERCH_0111,Healthcare,West
+MERCH_0112,Gaming & Digital Goods,South
+MERCH_0113,Electronics,West
+MERCH_0114,Travel & Hospitality,Central
+MERCH_0115,Gaming & Digital Goods,South
+MERCH_0116,Travel & Hospitality,East
+MERCH_0117,Grocery,West
+MERCH_0118,Grocery,Central
+MERCH_0119,Utilities,West
+MERCH_0120,Dining,South
+MERCH_0121,Gaming & Digital Goods,South
+MERCH_0122,Dining,North
+MERCH_0123,Electronics,West
+MERCH_0124,Grocery,North
+MERCH_0125,Grocery,West
+MERCH_0126,Healthcare,North
+MERCH_0127,Utilities,North
+MERCH_0128,Travel & Hospitality,South
+MERCH_0129,Electronics,West
+MERCH_0130,Jewellery,North
+MERCH_0131,Travel & Hospitality,South
+MERCH_0132,Electronics,South
+MERCH_0133,Grocery,North
+MERCH_0134,Travel & Hospitality,North
+MERCH_0135,Gaming & Digital Goods,West
+MERCH_0136,Healthcare,South
+MERCH_0137,Grocery,North
+MERCH_0138,Gaming & Digital Goods,West
+MERCH_0139,Travel & Hospitality,Central
+MERCH_0140,Dining,East
+MERCH_0141,Grocery,South
+MERCH_0142,Dining,West
+MERCH_0143,Dining,Central
+MERCH_0144,Dining,West
+MERCH_0145,Gaming & Digital Goods,South
+MERCH_0146,Jewellery,East
+MERCH_0147,Travel & Hospitality,West
+MERCH_0148,Healthcare,North
+MERCH_0149,Dining,South
+MERCH_0150,Grocery,West
+MERCH_0151,Travel & Hospitality,East
+MERCH_0152,Grocery,South
+MERCH_0153,Dining,East
+MERCH_0154,Grocery,North
+MERCH_0155,Grocery,South
+MERCH_0156,Utilities,West
+MERCH_0157,Dining,North
+MERCH_0158,Electronics,North
+MERCH_0159,Grocery,Central
+MERCH_0160,Jewellery,North
+MERCH_0161,Dining,North
+MERCH_0162,Gaming & Digital Goods,Central
+MERCH_0163,Dining,West
+MERCH_0164,Grocery,West
+MERCH_0165,Electronics,West
+MERCH_0166,Grocery,North
+MERCH_0167,Dining,West
+MERCH_0168,Dining,South
+MERCH_0169,Utilities,West
+MERCH_0170,Grocery,South
+MERCH_0171,Jewellery,East
+MERCH_0172,Grocery,South
+MERCH_0173,Dining,South
+MERCH_0174,Dining,West
+MERCH_0175,Utilities,East
+MERCH_0176,Grocery,East
+MERCH_0177,Grocery,South
+MERCH_0178,Dining,East
+MERCH_0179,Grocery,West
+MERCH_0180,Grocery,West
+MERCH_0181,Travel & Hospitality,West
+MERCH_0182,Grocery,Central
+MERCH_0183,Grocery,West
+MERCH_0184,Jewellery,East
+MERCH_0185,Dining,East
+MERCH_0186,Grocery,Central
+MERCH_0187,Dining,East
+MERCH_0188,Travel & Hospitality,West
+MERCH_0189,Dining,West
+MERCH_0190,Electronics,East
+MERCH_0191,Grocery,North
+MERCH_0192,Travel & Hospitality,South
+MERCH_0193,Dining,Central
+MERCH_0194,Travel & Hospitality,East
+MERCH_0195,Utilities,East
+MERCH_0196,Travel & Hospitality,Central
+MERCH_0197,Dining,East
+MERCH_0198,Dining,East
+MERCH_0199,Dining,West
+MERCH_0200,Grocery,West
+MERCH_0201,Grocery,North
+MERCH_0202,Gaming & Digital Goods,South
+MERCH_0203,Dining,South
+MERCH_0204,Dining,South
+MERCH_0205,Travel & Hospitality,South
+MERCH_0206,Travel & Hospitality,South
+MERCH_0207,Grocery,North
+MERCH_0208,Utilities,South
+MERCH_0209,Grocery,North
+MERCH_0210,Gaming & Digital Goods,East
+MERCH_0211,Gaming & Digital Goods,West
+MERCH_0212,Jewellery,West
+MERCH_0213,Travel & Hospitality,South
+MERCH_0214,Grocery,North
+MERCH_0215,Dining,North
+MERCH_0216,Travel & Hospitality,East
+MERCH_0217,Dining,North
+MERCH_0218,Utilities,East
+MERCH_0219,Dining,North
+MERCH_0220,Dining,West
+MERCH_0221,Dining,South
+MERCH_0222,Dining,North
+MERCH_0223,Electronics,West
+MERCH_0224,Jewellery,South
+MERCH_0225,Travel & Hospitality,North
+MERCH_0226,Utilities,East
+MERCH_0227,Utilities,East
+MERCH_0228,Utilities,West
+MERCH_0229,Grocery,North
+MERCH_0230,Gaming & Digital Goods,South
+MERCH_0231,Grocery,South
+MERCH_0232,Grocery,North
+MERCH_0233,Travel & Hospitality,West
+MERCH_0234,Dining,West
+MERCH_0235,Grocery,South
+MERCH_0236,Grocery,East
+MERCH_0237,Grocery,North
+MERCH_0238,Utilities,West
+MERCH_0239,Grocery,North
+MERCH_0240,Grocery,North
+MERCH_0241,Dining,South
+MERCH_0242,Dining,East
+MERCH_0243,Utilities,East
+MERCH_0244,Grocery,North
+MERCH_0245,Electronics,South
+MERCH_0246,Jewellery,South
+MERCH_0247,Healthcare,North
+MERCH_0248,Travel & Hospitality,West
+MERCH_0249,Utilities,North
+MERCH_0250,Grocery,South
+MERCH_0251,Dining,West
+MERCH_0252,Dining,North
+MERCH_0253,Utilities,East
+MERCH_0254,Grocery,West
+MERCH_0255,Grocery,North
+MERCH_0256,Dining,Central
+MERCH_0257,Grocery,East
+MERCH_0258,Grocery,South
+MERCH_0259,Healthcare,South
+MERCH_0260,Dining,South
+MERCH_0261,Travel & Hospitality,West
+MERCH_0262,Gaming & Digital Goods,West
+MERCH_0263,Dining,West
+MERCH_0264,Grocery,Central
+MERCH_0265,Grocery,West
+MERCH_0266,Dining,East
+MERCH_0267,Travel & Hospitality,South
+MERCH_0268,Dining,East
+MERCH_0269,Grocery,North
+MERCH_0270,Electronics,West
+MERCH_0271,Healthcare,South
+MERCH_0272,Utilities,North
+MERCH_0273,Utilities,North
+MERCH_0274,Gaming & Digital Goods,South
+MERCH_0275,Dining,East
+MERCH_0276,Gaming & Digital Goods,South
+MERCH_0277,Grocery,East
+MERCH_0278,Travel & Hospitality,South
+MERCH_0279,Travel & Hospitality,East
+MERCH_0280,Grocery,North
+MERCH_0281,Gaming & Digital Goods,North
+MERCH_0282,Utilities,East
+MERCH_0283,Dining,South
+MERCH_0284,Utilities,North
+MERCH_0285,Grocery,South
+MERCH_0286,Travel & Hospitality,North
+MERCH_0287,Electronics,East
+MERCH_0288,Electronics,South
+MERCH_0289,Healthcare,East
+MERCH_0290,Utilities,West
+MERCH_0291,Gaming & Digital Goods,South
+MERCH_0292,Dining,Central
+MERCH_0293,Utilities,East
+MERCH_0294,Grocery,East
+MERCH_0295,Utilities,West
+MERCH_0296,Dining,East
+MERCH_0297,Grocery,South
+MERCH_0298,Travel & Hospitality,South
+MERCH_0299,Grocery,North
+MERCH_0300,Grocery,North
+MERCH_0301,Dining,South
+MERCH_0302,Grocery,South
+MERCH_0303,Grocery,South
+MERCH_0304,Grocery,North
+MERCH_0305,Dining,West
+MERCH_0306,Grocery,West
+MERCH_0307,Jewellery,Central
+MERCH_0308,Grocery,South
+MERCH_0309,Healthcare,West
+MERCH_0310,Utilities,West
+MERCH_0311,Dining,South
+MERCH_0312,Gaming & Digital Goods,South
+MERCH_0313,Utilities,Central
+MERCH_0314,Healthcare,South
+MERCH_0315,Travel & Hospitality,South
+MERCH_0316,Grocery,North
+MERCH_0317,Travel & Hospitality,North
+MERCH_0318,Travel & Hospitality,West
+MERCH_0319,Travel & Hospitality,East
+MERCH_0320,Dining,South
+MERCH_0321,Utilities,North
+MERCH_0322,Healthcare,East
+MERCH_0323,Grocery,East
+MERCH_0324,Grocery,North
+MERCH_0325,Grocery,West
+MERCH_0326,Utilities,North
+MERCH_0327,Jewellery,South
+MERCH_0328,Travel & Hospitality,West
+MERCH_0329,Dining,North
+MERCH_0330,Travel & Hospitality,West
+MERCH_0331,Dining,West
+MERCH_0332,Electronics,West
+MERCH_0333,Gaming & Digital Goods,North
+MERCH_0334,Healthcare,North
+MERCH_0335,Healthcare,South
+MERCH_0336,Healthcare,South
+MERCH_0337,Dining,West
+MERCH_0338,Electronics,West
+MERCH_0339,Jewellery,West
+MERCH_0340,Healthcare,Central
+MERCH_0341,Grocery,West
+MERCH_0342,Dining,South
+MERCH_0343,Grocery,North
+MERCH_0344,Travel & Hospitality,West
+MERCH_0345,Dining,North
+MERCH_0346,Dining,North
+MERCH_0347,Grocery,East
+MERCH_0348,Dining,West
+MERCH_0349,Utilities,North
+MERCH_0350,Grocery,West

@@ -1,0 +1,1046 @@
+transaction_id,review_status,reason_category
+TXN_0009121,Approved,High Amount Anomaly
+TXN_0004618,Under Review,Cross-Region Surge
+TXN_0008129,Escalated,Cross-Region Surge
+TXN_0001484,Rejected,High Amount Anomaly
+TXN_0005083,Under Review,High Amount Anomaly
+TXN_0001218,Under Review,Cross-Region Surge
+TXN_0003992,Rejected,Cross-Region Surge
+TXN_0008515,Under Review,Cross-Region Surge
+TXN_0010748,Escalated,New Device Spike
+TXN_0011352,Approved,Cross-Region Surge
+TXN_0007760,Under Review,New Device Spike
+TXN_0000745,Approved,Cross-Region Surge
+TXN_0002037,Approved,Cross-Region Surge
+TXN_0009412,Escalated,High-Risk Merchant Category
+TXN_0004955,Rejected,High Amount Anomaly
+TXN_0006728,Under Review,Cross-Region Surge
+TXN_0002022,Rejected,Cross-Region Surge
+TXN_0008727,Approved,High Amount Anomaly
+TXN_0003046,Approved,Cross-Region Surge
+TXN_0005518,Escalated,Cross-Region Surge
+TXN_0005720,Escalated,High Amount Anomaly
+TXN_0000201,Approved,High-Risk Merchant Category
+TXN_0011773,Rejected,New Device Spike
+TXN_0002211,Approved,Cross-Region Surge
+TXN_0009120,Approved,Unusual Hour Velocity
+TXN_0002445,Approved,High Amount Anomaly
+TXN_0009193,Under Review,Cross-Region Surge
+TXN_0003404,Escalated,High Amount Anomaly
+TXN_0000102,Approved,Velocity Threshold Exceeded
+TXN_0008938,Under Review,Cross-Region Surge
+TXN_0010445,Approved,Velocity Threshold Exceeded
+TXN_0000462,Approved,Unusual Hour Velocity
+TXN_0007736,Rejected,Unusual Hour Velocity
+TXN_0000358,Approved,Cross-Region Surge
+TXN_0004309,Under Review,High Amount Anomaly
+TXN_0002047,Approved,High-Risk Merchant Category
+TXN_0011279,Approved,Cross-Region Surge
+TXN_0009319,Approved,High Amount Anomaly
+TXN_0008142,Escalated,High Amount Anomaly
+TXN_0001693,Approved,High-Risk Merchant Category
+TXN_0003653,Under Review,Cross-Region Surge
+TXN_0010935,Under Review,New Device Spike
+TXN_0008573,Under Review,Velocity Threshold Exceeded
+TXN_0004098,Approved,High Amount Anomaly
+TXN_0006128,Approved,High Amount Anomaly
+TXN_0007699,Rejected,Cross-Region Surge
+TXN_0000015,Rejected,Velocity Threshold Exceeded
+TXN_0002237,Approved,Cross-Region Surge
+TXN_0010119,Rejected,High Amount Anomaly
+TXN_0011227,Approved,High Amount Anomaly
+TXN_0010903,Approved,High-Risk Merchant Category
+TXN_0004709,Escalated,Velocity Threshold Exceeded
+TXN_0004839,Under Review,Unusual Hour Velocity
+TXN_0006464,Escalated,High Amount Anomaly
+TXN_0009328,Under Review,New Device Spike
+TXN_0008092,Under Review,New Device Spike
+TXN_0005035,Under Review,New Device Spike
+TXN_0005012,Approved,Unusual Hour Velocity
+TXN_0004845,Under Review,High-Risk Merchant Category
+TXN_0011354,Escalated,High Amount Anomaly
+TXN_0000458,Under Review,Cross-Region Surge
+TXN_0004723,Under Review,Cross-Region Surge
+TXN_0004194,Escalated,High Amount Anomaly
+TXN_0001140,Rejected,High Amount Anomaly
+TXN_0006984,Rejected,High Amount Anomaly
+TXN_0000322,Under Review,New Device Spike
+TXN_0005096,Escalated,High Amount Anomaly
+TXN_0008682,Approved,Unusual Hour Velocity
+TXN_0007413,Under Review,Cross-Region Surge
+TXN_0008664,Approved,Cross-Region Surge
+TXN_0008829,Rejected,Cross-Region Surge
+TXN_0004813,Approved,Velocity Threshold Exceeded
+TXN_0004509,Under Review,Cross-Region Surge
+TXN_0005980,Approved,Velocity Threshold Exceeded
+TXN_0002326,Escalated,High Amount Anomaly
+TXN_0002847,Under Review,Cross-Region Surge
+TXN_0010136,Escalated,High Amount Anomaly
+TXN_0006331,Under Review,Unusual Hour Velocity
+TXN_0008954,Under Review,Cross-Region Surge
+TXN_0002175,Approved,Cross-Region Surge
+TXN_0010994,Escalated,High Amount Anomaly
+TXN_0006076,Approved,Cross-Region Surge
+TXN_0005122,Rejected,Cross-Region Surge
+TXN_0008549,Approved,Cross-Region Surge
+TXN_0008338,Escalated,Cross-Region Surge
+TXN_0001845,Escalated,Cross-Region Surge
+TXN_0006272,Approved,Cross-Region Surge
+TXN_0008139,Escalated,High Amount Anomaly
+TXN_0006537,Under Review,High Amount Anomaly
+TXN_0009053,Under Review,Cross-Region Surge
+TXN_0010360,Approved,High Amount Anomaly
+TXN_0007646,Under Review,Cross-Region Surge
+TXN_0007488,Rejected,High Amount Anomaly
+TXN_0006473,Approved,New Device Spike
+TXN_0002956,Under Review,Velocity Threshold Exceeded
+TXN_0006720,Escalated,High Amount Anomaly
+TXN_0002743,Under Review,Cross-Region Surge
+TXN_0010834,Approved,Cross-Region Surge
+TXN_0003329,Escalated,High-Risk Merchant Category
+TXN_0011496,Rejected,High Amount Anomaly
+TXN_0004210,Approved,Cross-Region Surge
+TXN_0005502,Rejected,High Amount Anomaly
+TXN_0006670,Under Review,Cross-Region Surge
+TXN_0004195,Escalated,High Amount Anomaly
+TXN_0002612,Approved,Cross-Region Surge
+TXN_0002202,Approved,Velocity Threshold Exceeded
+TXN_0007679,Rejected,Cross-Region Surge
+TXN_0001356,Approved,Cross-Region Surge
+TXN_0004739,Approved,Cross-Region Surge
+TXN_0004036,Rejected,Cross-Region Surge
+TXN_0005771,Approved,Cross-Region Surge
+TXN_0006176,Approved,Velocity Threshold Exceeded
+TXN_0001531,Approved,Velocity Threshold Exceeded
+TXN_0004027,Rejected,High Amount Anomaly
+TXN_0011758,Approved,Unusual Hour Velocity
+TXN_0010866,Approved,Velocity Threshold Exceeded
+TXN_0006591,Under Review,Cross-Region Surge
+TXN_0003533,Escalated,High Amount Anomaly
+TXN_0000961,Approved,Cross-Region Surge
+TXN_0004719,Rejected,New Device Spike
+TXN_0001594,Rejected,New Device Spike
+TXN_0002537,Approved,Cross-Region Surge
+TXN_0003885,Rejected,Cross-Region Surge
+TXN_0009625,Rejected,Cross-Region Surge
+TXN_0006998,Rejected,High Amount Anomaly
+TXN_0008683,Under Review,Unusual Hour Velocity
+TXN_0004563,Approved,High-Risk Merchant Category
+TXN_0008986,Under Review,High Amount Anomaly
+TXN_0007872,Rejected,High Amount Anomaly
+TXN_0010265,Approved,Cross-Region Surge
+TXN_0011393,Approved,Unusual Hour Velocity
+TXN_0003232,Under Review,Cross-Region Surge
+TXN_0006307,Escalated,High Amount Anomaly
+TXN_0004455,Escalated,High Amount Anomaly
+TXN_0011210,Rejected,Cross-Region Surge
+TXN_0002920,Approved,Velocity Threshold Exceeded
+TXN_0011320,Under Review,High Amount Anomaly
+TXN_0009900,Escalated,High Amount Anomaly
+TXN_0008242,Escalated,Velocity Threshold Exceeded
+TXN_0003577,Under Review,Cross-Region Surge
+TXN_0006099,Approved,Cross-Region Surge
+TXN_0002010,Approved,Cross-Region Surge
+TXN_0011543,Approved,High-Risk Merchant Category
+TXN_0007204,Escalated,High Amount Anomaly
+TXN_0001965,Under Review,Cross-Region Surge
+TXN_0009134,Rejected,High Amount Anomaly
+TXN_0004239,Under Review,Cross-Region Surge
+TXN_0003448,Rejected,Velocity Threshold Exceeded
+TXN_0003659,Rejected,Cross-Region Surge
+TXN_0000009,Approved,Cross-Region Surge
+TXN_0006381,Rejected,Cross-Region Surge
+TXN_0010397,Under Review,Unusual Hour Velocity
+TXN_0005744,Approved,High Amount Anomaly
+TXN_0005788,Rejected,High Amount Anomaly
+TXN_0011739,Under Review,Cross-Region Surge
+TXN_0010988,Under Review,Cross-Region Surge
+TXN_0004439,Approved,Cross-Region Surge
+TXN_0005677,Escalated,High-Risk Merchant Category
+TXN_0003039,Approved,New Device Spike
+TXN_0006212,Approved,High Amount Anomaly
+TXN_0009442,Approved,Velocity Threshold Exceeded
+TXN_0004396,Under Review,Cross-Region Surge
+TXN_0001577,Escalated,High Amount Anomaly
+TXN_0003524,Approved,High Amount Anomaly
+TXN_0005665,Escalated,Cross-Region Surge
+TXN_0010435,Escalated,Cross-Region Surge
+TXN_0000797,Escalated,Cross-Region Surge
+TXN_0005228,Approved,Cross-Region Surge
+TXN_0006068,Under Review,Cross-Region Surge
+TXN_0008418,Escalated,Velocity Threshold Exceeded
+TXN_0000451,Rejected,High Amount Anomaly
+TXN_0002860,Under Review,High-Risk Merchant Category
+TXN_0006587,Under Review,Cross-Region Surge
+TXN_0006770,Approved,Unusual Hour Velocity
+TXN_0002590,Rejected,High Amount Anomaly
+TXN_0005377,Approved,Cross-Region Surge
+TXN_0010792,Rejected,Cross-Region Surge
+TXN_0002933,Approved,Velocity Threshold Exceeded
+TXN_0002772,Under Review,Unusual Hour Velocity
+TXN_0000778,Approved,New Device Spike
+TXN_0009432,Approved,Cross-Region Surge
+TXN_0001091,Approved,Unusual Hour Velocity
+TXN_0004099,Under Review,High Amount Anomaly
+TXN_0008662,Approved,High-Risk Merchant Category
+TXN_0001150,Approved,High Amount Anomaly
+TXN_0000896,Escalated,High Amount Anomaly
+TXN_0011265,Under Review,Cross-Region Surge
+TXN_0000766,Under Review,New Device Spike
+TXN_0011145,Approved,Cross-Region Surge
+TXN_0009519,Under Review,High Amount Anomaly
+TXN_0002109,Under Review,Cross-Region Surge
+TXN_0001346,Under Review,Unusual Hour Velocity
+TXN_0000336,Approved,Unusual Hour Velocity
+TXN_0010243,Under Review,Cross-Region Surge
+TXN_0011043,Under Review,High Amount Anomaly
+TXN_0004395,Escalated,High Amount Anomaly
+TXN_0001194,Under Review,Unusual Hour Velocity
+TXN_0006534,Under Review,High-Risk Merchant Category
+TXN_0009027,Approved,High Amount Anomaly
+TXN_0000577,Rejected,Cross-Region Surge
+TXN_0003248,Approved,High-Risk Merchant Category
+TXN_0008761,Under Review,Cross-Region Surge
+TXN_0004717,Approved,Cross-Region Surge
+TXN_0008510,Under Review,High Amount Anomaly
+TXN_0008641,Under Review,Cross-Region Surge
+TXN_0002393,Approved,High Amount Anomaly
+TXN_0006698,Approved,Cross-Region Surge
+TXN_0002621,Escalated,Cross-Region Surge
+TXN_0008207,Rejected,Velocity Threshold Exceeded
+TXN_0009013,Escalated,High Amount Anomaly
+TXN_0005260,Under Review,Cross-Region Surge
+TXN_0005713,Rejected,High Amount Anomaly
+TXN_0008505,Rejected,High Amount Anomaly
+TXN_0010155,Escalated,Cross-Region Surge
+TXN_0009175,Escalated,Cross-Region Surge
+TXN_0004534,Approved,Cross-Region Surge
+TXN_0011092,Approved,Cross-Region Surge
+TXN_0009214,Approved,High-Risk Merchant Category
+TXN_0009076,Rejected,New Device Spike
+TXN_0006014,Approved,Cross-Region Surge
+TXN_0011200,Approved,Cross-Region Surge
+TXN_0000958,Approved,Velocity Threshold Exceeded
+TXN_0005207,Under Review,Cross-Region Surge
+TXN_0000656,Escalated,Cross-Region Surge
+TXN_0000624,Under Review,Cross-Region Surge
+TXN_0010507,Escalated,Cross-Region Surge
+TXN_0002685,Under Review,Cross-Region Surge
+TXN_0003069,Under Review,Unusual Hour Velocity
+TXN_0000094,Rejected,Unusual Hour Velocity
+TXN_0001438,Escalated,High Amount Anomaly
+TXN_0001298,Escalated,Cross-Region Surge
+TXN_0006970,Escalated,High Amount Anomaly
+TXN_0005112,Under Review,High Amount Anomaly
+TXN_0009595,Under Review,Cross-Region Surge
+TXN_0006729,Rejected,Cross-Region Surge
+TXN_0006792,Under Review,Cross-Region Surge
+TXN_0011468,Under Review,Cross-Region Surge
+TXN_0008066,Escalated,Cross-Region Surge
+TXN_0006691,Approved,High-Risk Merchant Category
+TXN_0009717,Escalated,Unusual Hour Velocity
+TXN_0005129,Under Review,Unusual Hour Velocity
+TXN_0006509,Rejected,Cross-Region Surge
+TXN_0004265,Escalated,Cross-Region Surge
+TXN_0006926,Under Review,Cross-Region Surge
+TXN_0011677,Under Review,Unusual Hour Velocity
+TXN_0002153,Escalated,High Amount Anomaly
+TXN_0011293,Under Review,Cross-Region Surge
+TXN_0009851,Under Review,High-Risk Merchant Category
+TXN_0009064,Rejected,Cross-Region Surge
+TXN_0003670,Rejected,High Amount Anomaly
+TXN_0011272,Under Review,Cross-Region Surge
+TXN_0003356,Rejected,Cross-Region Surge
+TXN_0002902,Rejected,High Amount Anomaly
+TXN_0003144,Under Review,High Amount Anomaly
+TXN_0001958,Rejected,High Amount Anomaly
+TXN_0007949,Under Review,New Device Spike
+TXN_0005527,Under Review,Cross-Region Surge
+TXN_0004601,Rejected,Cross-Region Surge
+TXN_0001340,Escalated,High Amount Anomaly
+TXN_0004133,Escalated,High Amount Anomaly
+TXN_0008216,Under Review,Cross-Region Surge
+TXN_0009809,Approved,New Device Spike
+TXN_0002856,Escalated,Velocity Threshold Exceeded
+TXN_0008064,Under Review,Cross-Region Surge
+TXN_0011724,Approved,High-Risk Merchant Category
+TXN_0004451,Approved,New Device Spike
+TXN_0009034,Under Review,High Amount Anomaly
+TXN_0000481,Under Review,Velocity Threshold Exceeded
+TXN_0010857,Rejected,High-Risk Merchant Category
+TXN_0007599,Rejected,High Amount Anomaly
+TXN_0004846,Approved,High-Risk Merchant Category
+TXN_0002763,Rejected,High Amount Anomaly
+TXN_0007336,Rejected,Cross-Region Surge
+TXN_0002575,Under Review,New Device Spike
+TXN_0001420,Under Review,Velocity Threshold Exceeded
+TXN_0001559,Under Review,Velocity Threshold Exceeded
+TXN_0006891,Under Review,Velocity Threshold Exceeded
+TXN_0009933,Rejected,High Amount Anomaly
+TXN_0003586,Rejected,High-Risk Merchant Category
+TXN_0010039,Rejected,Cross-Region Surge
+TXN_0008924,Rejected,High Amount Anomaly
+TXN_0008966,Escalated,Cross-Region Surge
+TXN_0002900,Approved,High-Risk Merchant Category
+TXN_0001891,Under Review,Cross-Region Surge
+TXN_0010290,Under Review,Cross-Region Surge
+TXN_0011655,Escalated,High Amount Anomaly
+TXN_0009823,Approved,High Amount Anomaly
+TXN_0000394,Escalated,High Amount Anomaly
+TXN_0003406,Approved,Unusual Hour Velocity
+TXN_0004792,Under Review,Unusual Hour Velocity
+TXN_0006530,Rejected,Cross-Region Surge
+TXN_0011059,Escalated,High Amount Anomaly
+TXN_0002907,Under Review,High Amount Anomaly
+TXN_0009916,Under Review,Cross-Region Surge
+TXN_0009681,Under Review,High-Risk Merchant Category
+TXN_0007493,Approved,Cross-Region Surge
+TXN_0009465,Rejected,New Device Spike
+TXN_0004354,Approved,Cross-Region Surge
+TXN_0010176,Under Review,High Amount Anomaly
+TXN_0010091,Escalated,High Amount Anomaly
+TXN_0005156,Under Review,High Amount Anomaly
+TXN_0009935,Rejected,Cross-Region Surge
+TXN_0006426,Approved,Cross-Region Surge
+TXN_0007798,Approved,New Device Spike
+TXN_0001822,Approved,High Amount Anomaly
+TXN_0011304,Under Review,High-Risk Merchant Category
+TXN_0004903,Approved,Cross-Region Surge
+TXN_0000234,Approved,High Amount Anomaly
+TXN_0003622,Escalated,Cross-Region Surge
+TXN_0005966,Under Review,Cross-Region Surge
+TXN_0007885,Escalated,Unusual Hour Velocity
+TXN_0005829,Under Review,Cross-Region Surge
+TXN_0011267,Under Review,Cross-Region Surge
+TXN_0001337,Under Review,High Amount Anomaly
+TXN_0001314,Under Review,Cross-Region Surge
+TXN_0004703,Escalated,Cross-Region Surge
+TXN_0007793,Under Review,High-Risk Merchant Category
+TXN_0000512,Under Review,Unusual Hour Velocity
+TXN_0009771,Rejected,Cross-Region Surge
+TXN_0009521,Under Review,Unusual Hour Velocity
+TXN_0006188,Under Review,High-Risk Merchant Category
+TXN_0000843,Under Review,High Amount Anomaly
+TXN_0004852,Escalated,High Amount Anomaly
+TXN_0010195,Approved,Cross-Region Surge
+TXN_0006439,Escalated,Cross-Region Surge
+TXN_0002725,Under Review,High Amount Anomaly
+TXN_0007221,Approved,Cross-Region Surge
+TXN_0007659,Rejected,High Amount Anomaly
+TXN_0007963,Under Review,Cross-Region Surge
+TXN_0010511,Escalated,Cross-Region Surge
+TXN_0001809,Rejected,High Amount Anomaly
+TXN_0002046,Rejected,Velocity Threshold Exceeded
+TXN_0006389,Approved,High-Risk Merchant Category
+TXN_0006661,Approved,Cross-Region Surge
+TXN_0010224,Approved,Velocity Threshold Exceeded
+TXN_0001551,Approved,Cross-Region Surge
+TXN_0010529,Approved,Cross-Region Surge
+TXN_0002516,Approved,Cross-Region Surge
+TXN_0002869,Rejected,High Amount Anomaly
+TXN_0003964,Approved,Cross-Region Surge
+TXN_0010074,Under Review,Velocity Threshold Exceeded
+TXN_0011731,Rejected,High Amount Anomaly
+TXN_0011282,Under Review,Cross-Region Surge
+TXN_0004321,Under Review,Cross-Region Surge
+TXN_0009357,Approved,Cross-Region Surge
+TXN_0001093,Approved,High Amount Anomaly
+TXN_0008133,Approved,High-Risk Merchant Category
+TXN_0008976,Under Review,Unusual Hour Velocity
+TXN_0008787,Rejected,Cross-Region Surge
+TXN_0010726,Escalated,High Amount Anomaly
+TXN_0006579,Rejected,High Amount Anomaly
+TXN_0009691,Rejected,Cross-Region Surge
+TXN_0011130,Under Review,Velocity Threshold Exceeded
+TXN_0000965,Escalated,Cross-Region Surge
+TXN_0008879,Under Review,High Amount Anomaly
+TXN_0006051,Under Review,Cross-Region Surge
+TXN_0007904,Approved,High Amount Anomaly
+TXN_0004490,Escalated,High Amount Anomaly
+TXN_0011674,Approved,High Amount Anomaly
+TXN_0005858,Under Review,Cross-Region Surge
+TXN_0011510,Approved,Cross-Region Surge
+TXN_0004398,Approved,Cross-Region Surge
+TXN_0008766,Approved,Velocity Threshold Exceeded
+TXN_0006731,Under Review,High Amount Anomaly
+TXN_0008015,Escalated,Cross-Region Surge
+TXN_0001925,Rejected,Velocity Threshold Exceeded
+TXN_0002130,Rejected,High Amount Anomaly
+TXN_0000362,Escalated,High Amount Anomaly
+TXN_0008362,Approved,Cross-Region Surge
+TXN_0005205,Rejected,New Device Spike
+TXN_0001045,Under Review,Unusual Hour Velocity
+TXN_0011025,Under Review,Cross-Region Surge
+TXN_0000676,Under Review,Cross-Region Surge
+TXN_0003610,Under Review,Cross-Region Surge
+TXN_0006081,Rejected,High Amount Anomaly
+TXN_0009892,Under Review,High Amount Anomaly
+TXN_0008019,Rejected,High Amount Anomaly
+TXN_0007400,Rejected,High Amount Anomaly
+TXN_0008813,Under Review,Velocity Threshold Exceeded
+TXN_0010897,Escalated,Cross-Region Surge
+TXN_0010365,Under Review,Cross-Region Surge
+TXN_0003750,Under Review,High Amount Anomaly
+TXN_0009812,Rejected,Cross-Region Surge
+TXN_0010893,Escalated,High Amount Anomaly
+TXN_0001006,Rejected,High Amount Anomaly
+TXN_0003567,Rejected,High Amount Anomaly
+TXN_0004222,Approved,High Amount Anomaly
+TXN_0006726,Under Review,High Amount Anomaly
+TXN_0001929,Under Review,Cross-Region Surge
+TXN_0007289,Approved,Unusual Hour Velocity
+TXN_0003934,Rejected,High Amount Anomaly
+TXN_0003536,Approved,Cross-Region Surge
+TXN_0011459,Escalated,Velocity Threshold Exceeded
+TXN_0002834,Under Review,High Amount Anomaly
+TXN_0010199,Rejected,High-Risk Merchant Category
+TXN_0006340,Approved,Cross-Region Surge
+TXN_0007293,Escalated,High Amount Anomaly
+TXN_0011791,Under Review,Cross-Region Surge
+TXN_0006450,Escalated,High Amount Anomaly
+TXN_0011138,Escalated,Cross-Region Surge
+TXN_0001833,Rejected,High Amount Anomaly
+TXN_0010573,Approved,Velocity Threshold Exceeded
+TXN_0006178,Under Review,Velocity Threshold Exceeded
+TXN_0000355,Approved,Cross-Region Surge
+TXN_0007268,Under Review,Cross-Region Surge
+TXN_0009969,Approved,Cross-Region Surge
+TXN_0009544,Escalated,Unusual Hour Velocity
+TXN_0009186,Rejected,Unusual Hour Velocity
+TXN_0005685,Approved,Cross-Region Surge
+TXN_0006479,Rejected,High Amount Anomaly
+TXN_0007534,Rejected,Velocity Threshold Exceeded
+TXN_0010403,Rejected,High Amount Anomaly
+TXN_0010540,Under Review,Cross-Region Surge
+TXN_0001993,Under Review,Cross-Region Surge
+TXN_0004077,Approved,High-Risk Merchant Category
+TXN_0000998,Under Review,Cross-Region Surge
+TXN_0010276,Approved,High-Risk Merchant Category
+TXN_0003338,Under Review,Unusual Hour Velocity
+TXN_0007500,Rejected,High Amount Anomaly
+TXN_0001468,Escalated,Cross-Region Surge
+TXN_0008777,Approved,Velocity Threshold Exceeded
+TXN_0004138,Under Review,Cross-Region Surge
+TXN_0009858,Under Review,Cross-Region Surge
+TXN_0003800,Rejected,High Amount Anomaly
+TXN_0001075,Approved,Cross-Region Surge
+TXN_0007361,Rejected,High Amount Anomaly
+TXN_0005118,Rejected,Cross-Region Surge
+TXN_0010761,Rejected,Cross-Region Surge
+TXN_0007913,Escalated,High Amount Anomaly
+TXN_0005303,Under Review,Cross-Region Surge
+TXN_0006504,Under Review,Cross-Region Surge
+TXN_0005787,Escalated,High Amount Anomaly
+TXN_0000545,Under Review,Cross-Region Surge
+TXN_0011692,Escalated,High Amount Anomaly
+TXN_0004380,Approved,Unusual Hour Velocity
+TXN_0011572,Rejected,High Amount Anomaly
+TXN_0011218,Under Review,Velocity Threshold Exceeded
+TXN_0008198,Escalated,Cross-Region Surge
+TXN_0007291,Under Review,New Device Spike
+TXN_0002831,Approved,Velocity Threshold Exceeded
+TXN_0008058,Rejected,High Amount Anomaly
+TXN_0008085,Escalated,High Amount Anomaly
+TXN_0008075,Approved,High Amount Anomaly
+TXN_0009633,Under Review,Unusual Hour Velocity
+TXN_0003965,Under Review,Cross-Region Surge
+TXN_0010973,Rejected,High Amount Anomaly
+TXN_0000232,Under Review,Cross-Region Surge
+TXN_0011530,Approved,High-Risk Merchant Category
+TXN_0003733,Approved,New Device Spike
+TXN_0010080,Escalated,High-Risk Merchant Category
+TXN_0007780,Rejected,Velocity Threshold Exceeded
+TXN_0006924,Escalated,High Amount Anomaly
+TXN_0006555,Approved,Velocity Threshold Exceeded
+TXN_0005398,Rejected,New Device Spike
+TXN_0002695,Approved,High-Risk Merchant Category
+TXN_0003123,Approved,High-Risk Merchant Category
+TXN_0004276,Under Review,Cross-Region Surge
+TXN_0001533,Escalated,Velocity Threshold Exceeded
+TXN_0005776,Under Review,Velocity Threshold Exceeded
+TXN_0006195,Under Review,High Amount Anomaly
+TXN_0000301,Approved,Velocity Threshold Exceeded
+TXN_0004295,Rejected,Cross-Region Surge
+TXN_0011641,Rejected,Cross-Region Surge
+TXN_0009943,Approved,High Amount Anomaly
+TXN_0006694,Rejected,High Amount Anomaly
+TXN_0007360,Rejected,High Amount Anomaly
+TXN_0004705,Approved,Unusual Hour Velocity
+TXN_0008659,Rejected,Cross-Region Surge
+TXN_0002224,Under Review,Cross-Region Surge
+TXN_0007601,Escalated,High Amount Anomaly
+TXN_0010191,Rejected,Cross-Region Surge
+TXN_0010283,Rejected,High Amount Anomaly
+TXN_0010600,Rejected,New Device Spike
+TXN_0011010,Approved,Velocity Threshold Exceeded
+TXN_0006931,Under Review,High Amount Anomaly
+TXN_0005339,Rejected,High Amount Anomaly
+TXN_0011309,Approved,Cross-Region Surge
+TXN_0006409,Approved,Unusual Hour Velocity
+TXN_0006330,Under Review,Cross-Region Surge
+TXN_0006401,Under Review,Velocity Threshold Exceeded
+TXN_0004369,Under Review,Cross-Region Surge
+TXN_0002602,Under Review,High Amount Anomaly
+TXN_0002174,Rejected,Cross-Region Surge
+TXN_0003284,Rejected,High Amount Anomaly
+TXN_0004962,Escalated,High Amount Anomaly
+TXN_0011066,Escalated,Cross-Region Surge
+TXN_0011565,Approved,Cross-Region Surge
+TXN_0002922,Under Review,Cross-Region Surge
+TXN_0008380,Approved,Velocity Threshold Exceeded
+TXN_0002299,Approved,Velocity Threshold Exceeded
+TXN_0010993,Under Review,Cross-Region Surge
+TXN_0009752,Escalated,High-Risk Merchant Category
+TXN_0003166,Under Review,New Device Spike
+TXN_0010359,Approved,High-Risk Merchant Category
+TXN_0010971,Under Review,Velocity Threshold Exceeded
+TXN_0004849,Escalated,High Amount Anomaly
+TXN_0011243,Approved,Cross-Region Surge
+TXN_0004268,Rejected,High Amount Anomaly
+TXN_0003455,Under Review,Cross-Region Surge
+TXN_0006177,Under Review,Velocity Threshold Exceeded
+TXN_0008774,Rejected,New Device Spike
+TXN_0001516,Rejected,Cross-Region Surge
+TXN_0009271,Approved,Velocity Threshold Exceeded
+TXN_0007303,Approved,Unusual Hour Velocity
+TXN_0008881,Rejected,High Amount Anomaly
+TXN_0008327,Under Review,High Amount Anomaly
+TXN_0006209,Under Review,Cross-Region Surge
+TXN_0002315,Approved,Velocity Threshold Exceeded
+TXN_0009169,Approved,Cross-Region Surge
+TXN_0006861,Approved,High Amount Anomaly
+TXN_0004624,Rejected,Cross-Region Surge
+TXN_0009984,Rejected,Cross-Region Surge
+TXN_0001678,Rejected,High Amount Anomaly
+TXN_0000297,Under Review,Cross-Region Surge
+TXN_0000028,Under Review,Cross-Region Surge
+TXN_0005859,Under Review,Unusual Hour Velocity
+TXN_0009502,Under Review,High-Risk Merchant Category
+TXN_0007937,Under Review,Velocity Threshold Exceeded
+TXN_0008315,Under Review,Cross-Region Surge
+TXN_0003297,Approved,Cross-Region Surge
+TXN_0005015,Under Review,Cross-Region Surge
+TXN_0001463,Approved,High-Risk Merchant Category
+TXN_0002640,Under Review,Cross-Region Surge
+TXN_0002939,Rejected,High Amount Anomaly
+TXN_0011767,Approved,Cross-Region Surge
+TXN_0000495,Under Review,Velocity Threshold Exceeded
+TXN_0006394,Approved,Cross-Region Surge
+TXN_0007757,Approved,High-Risk Merchant Category
+TXN_0006210,Approved,Velocity Threshold Exceeded
+TXN_0005275,Escalated,Cross-Region Surge
+TXN_0002706,Under Review,High Amount Anomaly
+TXN_0003262,Under Review,High-Risk Merchant Category
+TXN_0006058,Rejected,High Amount Anomaly
+TXN_0003568,Approved,Cross-Region Surge
+TXN_0011114,Rejected,High Amount Anomaly
+TXN_0006633,Approved,Velocity Threshold Exceeded
+TXN_0000890,Under Review,High Amount Anomaly
+TXN_0010006,Rejected,High Amount Anomaly
+TXN_0005983,Approved,Cross-Region Surge
+TXN_0005883,Rejected,High Amount Anomaly
+TXN_0004818,Rejected,High Amount Anomaly
+TXN_0008546,Approved,New Device Spike
+TXN_0008804,Rejected,High Amount Anomaly
+TXN_0007389,Approved,Cross-Region Surge
+TXN_0010356,Escalated,High Amount Anomaly
+TXN_0000244,Escalated,Cross-Region Surge
+TXN_0000791,Under Review,High-Risk Merchant Category
+TXN_0000381,Escalated,High Amount Anomaly
+TXN_0001293,Under Review,Velocity Threshold Exceeded
+TXN_0009457,Under Review,High-Risk Merchant Category
+TXN_0011720,Escalated,High Amount Anomaly
+TXN_0005352,Under Review,High-Risk Merchant Category
+TXN_0007673,Escalated,High Amount Anomaly
+TXN_0002854,Escalated,High Amount Anomaly
+TXN_0011371,Escalated,Unusual Hour Velocity
+TXN_0005327,Approved,Velocity Threshold Exceeded
+TXN_0009530,Under Review,Unusual Hour Velocity
+TXN_0002036,Approved,Cross-Region Surge
+TXN_0004040,Approved,Cross-Region Surge
+TXN_0000653,Approved,Cross-Region Surge
+TXN_0000171,Rejected,High Amount Anomaly
+TXN_0001645,Escalated,High Amount Anomaly
+TXN_0004802,Approved,Cross-Region Surge
+TXN_0005975,Rejected,High-Risk Merchant Category
+TXN_0009344,Escalated,High Amount Anomaly
+TXN_0007978,Approved,High-Risk Merchant Category
+TXN_0006655,Rejected,Unusual Hour Velocity
+TXN_0002989,Under Review,High Amount Anomaly
+TXN_0010651,Under Review,Cross-Region Surge
+TXN_0008297,Approved,Cross-Region Surge
+TXN_0011423,Rejected,Cross-Region Surge
+TXN_0005530,Rejected,Velocity Threshold Exceeded
+TXN_0007727,Under Review,Unusual Hour Velocity
+TXN_0011438,Approved,Velocity Threshold Exceeded
+TXN_0004320,Rejected,Cross-Region Surge
+TXN_0003970,Approved,Cross-Region Surge
+TXN_0010916,Rejected,High Amount Anomaly
+TXN_0004557,Approved,High Amount Anomaly
+TXN_0005556,Rejected,Velocity Threshold Exceeded
+TXN_0007509,Rejected,High Amount Anomaly
+TXN_0007573,Under Review,Unusual Hour Velocity
+TXN_0000076,Escalated,High Amount Anomaly
+TXN_0007941,Approved,Cross-Region Surge
+TXN_0008995,Escalated,High-Risk Merchant Category
+TXN_0002147,Rejected,Cross-Region Surge
+TXN_0003342,Under Review,Cross-Region Surge
+TXN_0005513,Approved,Velocity Threshold Exceeded
+TXN_0003363,Approved,Cross-Region Surge
+TXN_0002398,Rejected,High Amount Anomaly
+TXN_0000453,Rejected,High Amount Anomaly
+TXN_0003682,Approved,High-Risk Merchant Category
+TXN_0006716,Rejected,Cross-Region Surge
+TXN_0000962,Approved,Cross-Region Surge
+TXN_0009177,Rejected,High Amount Anomaly
+TXN_0005314,Under Review,High-Risk Merchant Category
+TXN_0009246,Rejected,High Amount Anomaly
+TXN_0009989,Under Review,Velocity Threshold Exceeded
+TXN_0001957,Escalated,Cross-Region Surge
+TXN_0001699,Rejected,Cross-Region Surge
+TXN_0010031,Approved,Cross-Region Surge
+TXN_0011317,Escalated,New Device Spike
+TXN_0009561,Rejected,New Device Spike
+TXN_0011526,Rejected,High Amount Anomaly
+TXN_0008833,Approved,Unusual Hour Velocity
+TXN_0000678,Approved,Velocity Threshold Exceeded
+TXN_0007682,Approved,High-Risk Merchant Category
+TXN_0009970,Escalated,High Amount Anomaly
+TXN_0006174,Approved,High-Risk Merchant Category
+TXN_0008963,Approved,High-Risk Merchant Category
+TXN_0009827,Approved,Cross-Region Surge
+TXN_0006693,Approved,New Device Spike
+TXN_0008040,Escalated,Cross-Region Surge
+TXN_0004669,Approved,High Amount Anomaly
+TXN_0004766,Escalated,High Amount Anomaly
+TXN_0002399,Rejected,Velocity Threshold Exceeded
+TXN_0010927,Escalated,High Amount Anomaly
+TXN_0007886,Escalated,High Amount Anomaly
+TXN_0006514,Approved,High Amount Anomaly
+TXN_0004993,Rejected,High Amount Anomaly
+TXN_0011370,Rejected,High Amount Anomaly
+TXN_0008519,Approved,Cross-Region Surge
+TXN_0011549,Approved,Cross-Region Surge
+TXN_0000273,Rejected,High Amount Anomaly
+TXN_0002043,Rejected,Cross-Region Surge
+TXN_0002187,Approved,High-Risk Merchant Category
+TXN_0010504,Escalated,Velocity Threshold Exceeded
+TXN_0003925,Under Review,New Device Spike
+TXN_0003304,Rejected,Unusual Hour Velocity
+TXN_0007636,Approved,Cross-Region Surge
+TXN_0000887,Approved,Cross-Region Surge
+TXN_0005851,Approved,Velocity Threshold Exceeded
+TXN_0003130,Rejected,High Amount Anomaly
+TXN_0002810,Approved,High Amount Anomaly
+TXN_0003417,Under Review,New Device Spike
+TXN_0003909,Rejected,High Amount Anomaly
+TXN_0009125,Escalated,High Amount Anomaly
+TXN_0011684,Approved,Velocity Threshold Exceeded
+TXN_0011531,Rejected,High Amount Anomaly
+TXN_0001667,Under Review,New Device Spike
+TXN_0000053,Approved,Cross-Region Surge
+TXN_0007580,Rejected,High Amount Anomaly
+TXN_0001696,Escalated,High Amount Anomaly
+TXN_0010583,Escalated,Cross-Region Surge
+TXN_0008091,Escalated,High Amount Anomaly
+TXN_0001235,Approved,Cross-Region Surge
+TXN_0005840,Escalated,High Amount Anomaly
+TXN_0008009,Approved,Cross-Region Surge
+TXN_0003200,Rejected,Cross-Region Surge
+TXN_0002501,Escalated,High Amount Anomaly
+TXN_0010149,Approved,High-Risk Merchant Category
+TXN_0006934,Escalated,Cross-Region Surge
+TXN_0006712,Under Review,Unusual Hour Velocity
+TXN_0000862,Under Review,Cross-Region Surge
+TXN_0005213,Escalated,Cross-Region Surge
+TXN_0002412,Escalated,High Amount Anomaly
+TXN_0002260,Approved,Velocity Threshold Exceeded
+TXN_0005867,Under Review,Cross-Region Surge
+TXN_0007390,Approved,Unusual Hour Velocity
+TXN_0007943,Rejected,High Amount Anomaly
+TXN_0007087,Approved,Cross-Region Surge
+TXN_0004502,Rejected,Velocity Threshold Exceeded
+TXN_0008780,Under Review,Cross-Region Surge
+TXN_0008028,Under Review,High Amount Anomaly
+TXN_0011751,Rejected,Cross-Region Surge
+TXN_0009513,Under Review,Unusual Hour Velocity
+TXN_0010244,Approved,Velocity Threshold Exceeded
+TXN_0002851,Under Review,Cross-Region Surge
+TXN_0011454,Approved,Cross-Region Surge
+TXN_0010412,Rejected,Cross-Region Surge
+TXN_0004461,Under Review,Cross-Region Surge
+TXN_0002736,Escalated,High Amount Anomaly
+TXN_0002379,Under Review,Cross-Region Surge
+TXN_0008350,Approved,Cross-Region Surge
+TXN_0009641,Approved,Cross-Region Surge
+TXN_0007037,Under Review,High-Risk Merchant Category
+TXN_0007648,Approved,Velocity Threshold Exceeded
+TXN_0002916,Escalated,Velocity Threshold Exceeded
+TXN_0004754,Approved,New Device Spike
+TXN_0010034,Approved,Cross-Region Surge
+TXN_0003572,Under Review,Unusual Hour Velocity
+TXN_0007597,Approved,Unusual Hour Velocity
+TXN_0010999,Approved,Cross-Region Surge
+TXN_0008471,Rejected,Cross-Region Surge
+TXN_0006004,Approved,Cross-Region Surge
+TXN_0008691,Rejected,Cross-Region Surge
+TXN_0003805,Escalated,High Amount Anomaly
+TXN_0006080,Approved,Cross-Region Surge
+TXN_0006978,Escalated,High Amount Anomaly
+TXN_0008237,Under Review,Cross-Region Surge
+TXN_0008230,Escalated,Velocity Threshold Exceeded
+TXN_0009430,Under Review,Cross-Region Surge
+TXN_0009382,Rejected,High Amount Anomaly
+TXN_0002978,Rejected,High Amount Anomaly
+TXN_0006056,Under Review,Cross-Region Surge
+TXN_0008969,Approved,Cross-Region Surge
+TXN_0002295,Under Review,Unusual Hour Velocity
+TXN_0003612,Rejected,High Amount Anomaly
+TXN_0011367,Rejected,High Amount Anomaly
+TXN_0000597,Rejected,Cross-Region Surge
+TXN_0010964,Approved,Cross-Region Surge
+TXN_0006220,Approved,Cross-Region Surge
+TXN_0009815,Under Review,Cross-Region Surge
+TXN_0011373,Approved,High Amount Anomaly
+TXN_0002855,Rejected,High Amount Anomaly
+TXN_0006196,Under Review,Cross-Region Surge
+TXN_0009458,Rejected,High-Risk Merchant Category
+TXN_0005060,Approved,New Device Spike
+TXN_0010289,Under Review,Cross-Region Surge
+TXN_0006599,Approved,Cross-Region Surge
+TXN_0009542,Approved,Cross-Region Surge
+TXN_0005461,Rejected,High Amount Anomaly
+TXN_0008791,Rejected,High Amount Anomaly
+TXN_0006267,Escalated,High Amount Anomaly
+TXN_0003259,Escalated,Unusual Hour Velocity
+TXN_0002597,Approved,High Amount Anomaly
+TXN_0002844,Escalated,High Amount Anomaly
+TXN_0001912,Rejected,Cross-Region Surge
+TXN_0001362,Approved,High-Risk Merchant Category
+TXN_0001630,Escalated,Cross-Region Surge
+TXN_0011134,Rejected,High Amount Anomaly
+TXN_0004018,Rejected,High Amount Anomaly
+TXN_0001365,Under Review,High Amount Anomaly
+TXN_0001780,Approved,High-Risk Merchant Category
+TXN_0002643,Rejected,High Amount Anomaly
+TXN_0006310,Approved,Velocity Threshold Exceeded
+TXN_0010887,Under Review,Velocity Threshold Exceeded
+TXN_0006548,Approved,Unusual Hour Velocity
+TXN_0006433,Approved,Cross-Region Surge
+TXN_0004822,Approved,Cross-Region Surge
+TXN_0000050,Rejected,High-Risk Merchant Category
+TXN_0006044,Under Review,Cross-Region Surge
+TXN_0001425,Under Review,Unusual Hour Velocity
+TXN_0000113,Rejected,New Device Spike
+TXN_0000452,Under Review,Cross-Region Surge
+TXN_0010734,Under Review,High-Risk Merchant Category
+TXN_0003923,Under Review,High Amount Anomaly
+TXN_0004770,Rejected,High Amount Anomaly
+TXN_0008825,Under Review,Velocity Threshold Exceeded
+TXN_0005261,Rejected,Velocity Threshold Exceeded
+TXN_0000167,Under Review,Cross-Region Surge
+TXN_0011560,Escalated,Cross-Region Surge
+TXN_0010869,Approved,Cross-Region Surge
+TXN_0001423,Approved,Cross-Region Surge
+TXN_0004558,Under Review,Cross-Region Surge
+TXN_0008655,Escalated,Unusual Hour Velocity
+TXN_0001106,Approved,Unusual Hour Velocity
+TXN_0003744,Under Review,Cross-Region Surge
+TXN_0003948,Approved,Unusual Hour Velocity
+TXN_0002218,Rejected,Cross-Region Surge
+TXN_0008149,Under Review,Cross-Region Surge
+TXN_0002896,Rejected,Cross-Region Surge
+TXN_0005452,Escalated,New Device Spike
+TXN_0006475,Escalated,Velocity Threshold Exceeded
+TXN_0005242,Rejected,High Amount Anomaly
+TXN_0008846,Under Review,High-Risk Merchant Category
+TXN_0006411,Rejected,Cross-Region Surge
+TXN_0006684,Under Review,Cross-Region Surge
+TXN_0010348,Escalated,Unusual Hour Velocity
+TXN_0008828,Rejected,Cross-Region Surge
+TXN_0009988,Escalated,Cross-Region Surge
+TXN_0001549,Under Review,Cross-Region Surge
+TXN_0010984,Rejected,High Amount Anomaly
+TXN_0007171,Under Review,High-Risk Merchant Category
+TXN_0005575,Under Review,High Amount Anomaly
+TXN_0005843,Rejected,Unusual Hour Velocity
+TXN_0010164,Rejected,High Amount Anomaly
+TXN_0003168,Under Review,New Device Spike
+TXN_0001810,Approved,Velocity Threshold Exceeded
+TXN_0009719,Under Review,Cross-Region Surge
+TXN_0006847,Approved,Cross-Region Surge
+TXN_0008245,Approved,New Device Spike
+TXN_0011108,Approved,Velocity Threshold Exceeded
+TXN_0005790,Rejected,High Amount Anomaly
+TXN_0007399,Under Review,Cross-Region Surge
+TXN_0005243,Approved,Cross-Region Surge
+TXN_0002093,Escalated,High Amount Anomaly
+TXN_0000188,Approved,Cross-Region Surge
+TXN_0004898,Rejected,High Amount Anomaly
+TXN_0008069,Rejected,Cross-Region Surge
+TXN_0010979,Escalated,High Amount Anomaly
+TXN_0005930,Under Review,High Amount Anomaly
+TXN_0004118,Approved,Cross-Region Surge
+TXN_0001864,Rejected,High-Risk Merchant Category
+TXN_0010896,Under Review,Unusual Hour Velocity
+TXN_0001947,Rejected,Cross-Region Surge
+TXN_0010470,Rejected,Cross-Region Surge
+TXN_0009738,Under Review,Velocity Threshold Exceeded
+TXN_0005005,Approved,Cross-Region Surge
+TXN_0000947,Under Review,New Device Spike
+TXN_0002353,Escalated,High Amount Anomaly
+TXN_0006140,Approved,High Amount Anomaly
+TXN_0008037,Approved,Unusual Hour Velocity
+TXN_0002170,Rejected,Cross-Region Surge
+TXN_0000911,Rejected,High Amount Anomaly
+TXN_0000443,Approved,High-Risk Merchant Category
+TXN_0007612,Escalated,High Amount Anomaly
+TXN_0011413,Approved,High-Risk Merchant Category
+TXN_0006584,Approved,Velocity Threshold Exceeded
+TXN_0001857,Rejected,Cross-Region Surge
+TXN_0001843,Escalated,High Amount Anomaly
+TXN_0005444,Approved,High Amount Anomaly
+TXN_0010337,Under Review,High Amount Anomaly
+TXN_0006994,Approved,Cross-Region Surge
+TXN_0001801,Under Review,Velocity Threshold Exceeded
+TXN_0001160,Rejected,Velocity Threshold Exceeded
+TXN_0006797,Approved,Unusual Hour Velocity
+TXN_0005411,Rejected,Cross-Region Surge
+TXN_0002801,Under Review,High Amount Anomaly
+TXN_0010731,Rejected,Cross-Region Surge
+TXN_0006318,Approved,Cross-Region Surge
+TXN_0004578,Under Review,Cross-Region Surge
+TXN_0007852,Under Review,Cross-Region Surge
+TXN_0001493,Escalated,Velocity Threshold Exceeded
+TXN_0005155,Escalated,Cross-Region Surge
+TXN_0002525,Approved,Cross-Region Surge
+TXN_0009150,Under Review,Cross-Region Surge
+TXN_0007156,Under Review,Velocity Threshold Exceeded
+TXN_0009229,Approved,Velocity Threshold Exceeded
+TXN_0005076,Approved,Cross-Region Surge
+TXN_0006143,Rejected,High Amount Anomaly
+TXN_0008180,Rejected,High Amount Anomaly
+TXN_0003865,Rejected,Velocity Threshold Exceeded
+TXN_0005249,Approved,Unusual Hour Velocity
+TXN_0003691,Approved,New Device Spike
+TXN_0000476,Escalated,Cross-Region Surge
+TXN_0010690,Rejected,Unusual Hour Velocity
+TXN_0001578,Under Review,High Amount Anomaly
+TXN_0003971,Rejected,Cross-Region Surge
+TXN_0003751,Under Review,High-Risk Merchant Category
+TXN_0006634,Under Review,Cross-Region Surge
+TXN_0011501,Rejected,High Amount Anomaly
+TXN_0001172,Approved,Cross-Region Surge
+TXN_0000875,Approved,Cross-Region Surge
+TXN_0000205,Under Review,Cross-Region Surge
+TXN_0003385,Escalated,High Amount Anomaly
+TXN_0001450,Under Review,Cross-Region Surge
+TXN_0003921,Escalated,High Amount Anomaly
+TXN_0005625,Approved,High-Risk Merchant Category
+TXN_0002811,Under Review,Cross-Region Surge
+TXN_0007545,Approved,Velocity Threshold Exceeded
+TXN_0006446,Escalated,High Amount Anomaly
+TXN_0005927,Rejected,High Amount Anomaly
+TXN_0001654,Under Review,High-Risk Merchant Category
+TXN_0007528,Escalated,High Amount Anomaly
+TXN_0010139,Escalated,High Amount Anomaly
+TXN_0004876,Approved,Cross-Region Surge
+TXN_0005947,Under Review,Cross-Region Surge
+TXN_0009856,Approved,Cross-Region Surge
+TXN_0003748,Approved,New Device Spike
+TXN_0002197,Rejected,Cross-Region Surge
+TXN_0001247,Under Review,Cross-Region Surge
+TXN_0009936,Under Review,Unusual Hour Velocity
+TXN_0008124,Rejected,Cross-Region Surge
+TXN_0003192,Rejected,High Amount Anomaly
+TXN_0000017,Rejected,Cross-Region Surge
+TXN_0004799,Approved,High-Risk Merchant Category
+TXN_0010370,Rejected,High Amount Anomaly
+TXN_0011111,Approved,Cross-Region Surge
+TXN_0011319,Under Review,Cross-Region Surge
+TXN_0006141,Rejected,New Device Spike
+TXN_0003303,Rejected,Cross-Region Surge
+TXN_0006929,Under Review,Cross-Region Surge
+TXN_0005672,Escalated,Cross-Region Surge
+TXN_0007155,Approved,High Amount Anomaly
+TXN_0004350,Under Review,Cross-Region Surge
+TXN_0010363,Approved,Cross-Region Surge
+TXN_0010799,Rejected,High Amount Anomaly
+TXN_0007046,Rejected,Cross-Region Surge
+TXN_0004918,Rejected,Velocity Threshold Exceeded
+TXN_0006722,Approved,Cross-Region Surge
+TXN_0011436,Rejected,High Amount Anomaly
+TXN_0009716,Approved,High Amount Anomaly
+TXN_0004896,Rejected,Cross-Region Surge
+TXN_0000149,Escalated,Cross-Region Surge
+TXN_0011583,Under Review,Cross-Region Surge
+TXN_0003084,Escalated,High Amount Anomaly
+TXN_0004256,Under Review,Unusual Hour Velocity
+TXN_0011492,Under Review,Cross-Region Surge
+TXN_0009739,Under Review,Unusual Hour Velocity
+TXN_0002853,Escalated,Cross-Region Surge
+TXN_0001250,Escalated,Cross-Region Surge
+TXN_0008228,Rejected,High-Risk Merchant Category
+TXN_0005048,Under Review,Cross-Region Surge
+TXN_0010942,Rejected,Cross-Region Surge
+TXN_0002138,Approved,New Device Spike
+TXN_0010201,Approved,Unusual Hour Velocity
+TXN_0010273,Approved,Velocity Threshold Exceeded
+TXN_0008565,Rejected,High Amount Anomaly
+TXN_0002990,Approved,Cross-Region Surge
+TXN_0010259,Under Review,Velocity Threshold Exceeded
+TXN_0003727,Rejected,High Amount Anomaly
+TXN_0004441,Approved,Cross-Region Surge
+TXN_0007176,Rejected,Cross-Region Surge
+TXN_0004471,Under Review,Unusual Hour Velocity
+TXN_0000892,Escalated,Cross-Region Surge
+TXN_0005179,Escalated,High Amount Anomaly
+TXN_0001059,Rejected,Cross-Region Surge
+TXN_0006263,Under Review,High Amount Anomaly
+TXN_0009509,Approved,Cross-Region Surge
+TXN_0000620,Escalated,High Amount Anomaly
+TXN_0009772,Rejected,High Amount Anomaly
+TXN_0006100,Under Review,Unusual Hour Velocity
+TXN_0000014,Rejected,Unusual Hour Velocity
+TXN_0009990,Approved,Velocity Threshold Exceeded
+TXN_0000918,Escalated,High Amount Anomaly
+TXN_0000779,Approved,Cross-Region Surge
+TXN_0008921,Approved,Cross-Region Surge
+TXN_0003634,Approved,Velocity Threshold Exceeded
+TXN_0001051,Under Review,Cross-Region Surge
+TXN_0000934,Approved,Cross-Region Surge
+TXN_0006447,Under Review,Unusual Hour Velocity
+TXN_0003094,Escalated,High Amount Anomaly
+TXN_0011548,Under Review,Unusual Hour Velocity
+TXN_0009110,Under Review,High Amount Anomaly
+TXN_0001266,Under Review,Cross-Region Surge
+TXN_0009883,Approved,Velocity Threshold Exceeded
+TXN_0009740,Approved,Cross-Region Surge
+TXN_0011064,Approved,Cross-Region Surge
+TXN_0002809,Rejected,Cross-Region Surge
+TXN_0009909,Approved,Cross-Region Surge
+TXN_0011306,Escalated,Cross-Region Surge
+TXN_0002397,Under Review,Cross-Region Surge
+TXN_0004037,Escalated,High Amount Anomaly
+TXN_0003973,Approved,Velocity Threshold Exceeded
+TXN_0007292,Under Review,Cross-Region Surge
+TXN_0011164,Rejected,High Amount Anomaly
+TXN_0001934,Rejected,Cross-Region Surge
+TXN_0000807,Under Review,High Amount Anomaly
+TXN_0008897,Approved,High Amount Anomaly
+TXN_0007833,Under Review,High Amount Anomaly
+TXN_0002034,Escalated,New Device Spike
+TXN_0003811,Rejected,Cross-Region Surge
+TXN_0007139,Under Review,Cross-Region Surge
+TXN_0003295,Approved,Velocity Threshold Exceeded
+TXN_0001522,Rejected,High Amount Anomaly
+TXN_0005914,Approved,Cross-Region Surge
+TXN_0008045,Rejected,Cross-Region Surge
+TXN_0006186,Rejected,High Amount Anomaly
+TXN_0006213,Rejected,New Device Spike
+TXN_0003851,Approved,High Amount Anomaly
+TXN_0010282,Escalated,High Amount Anomaly
+TXN_0002574,Rejected,Cross-Region Surge
+TXN_0011592,Approved,Velocity Threshold Exceeded
+TXN_0010683,Under Review,High Amount Anomaly
+TXN_0000833,Escalated,Velocity Threshold Exceeded
+TXN_0003452,Rejected,Cross-Region Surge
+TXN_0001482,Rejected,New Device Spike
+TXN_0007312,Rejected,High Amount Anomaly
+TXN_0002483,Approved,Cross-Region Surge
+TXN_0001760,Escalated,Cross-Region Surge
+TXN_0004758,Approved,Velocity Threshold Exceeded
+TXN_0011167,Escalated,High Amount Anomaly
+TXN_0001646,Under Review,New Device Spike
+TXN_0007784,Under Review,Cross-Region Surge
+TXN_0002444,Under Review,Velocity Threshold Exceeded
+TXN_0001866,Escalated,Cross-Region Surge
+TXN_0000420,Rejected,Unusual Hour Velocity
+TXN_0001203,Escalated,High Amount Anomaly
+TXN_0008390,Under Review,High-Risk Merchant Category
+TXN_0009511,Rejected,Cross-Region Surge
+TXN_0006039,Escalated,Cross-Region Surge
+TXN_0000261,Escalated,High Amount Anomaly
+TXN_0010788,Approved,Cross-Region Surge
+TXN_0001064,Approved,New Device Spike
+TXN_0005623,Under Review,Cross-Region Surge
+TXN_0009505,Escalated,High-Risk Merchant Category
+TXN_0005402,Escalated,High Amount Anomaly
+TXN_0003346,Escalated,Cross-Region Surge
+TXN_0006810,Approved,Cross-Region Surge
+TXN_0003645,Approved,Cross-Region Surge
+TXN_0009946,Rejected,High Amount Anomaly
+TXN_0011231,Approved,Cross-Region Surge
+TXN_0006270,Rejected,High Amount Anomaly
+TXN_0005570,Rejected,Unusual Hour Velocity
+TXN_0006328,Under Review,Cross-Region Surge
+TXN_0002181,Approved,Unusual Hour Velocity
+TXN_0010041,Escalated,High Amount Anomaly
+TXN_0003420,Under Review,New Device Spike
+TXN_0007141,Escalated,High Amount Anomaly
+TXN_0001461,Rejected,Cross-Region Surge
+TXN_0010345,Under Review,Cross-Region Surge
+TXN_0001634,Escalated,High Amount Anomaly
+TXN_0008990,Approved,High Amount Anomaly
+TXN_0000010,Rejected,High Amount Anomaly
+TXN_0000256,Rejected,Velocity Threshold Exceeded
+TXN_0006133,Approved,Cross-Region Surge
+TXN_0011328,Approved,Unusual Hour Velocity
+TXN_0008648,Under Review,Cross-Region Surge
+TXN_0004749,Under Review,High-Risk Merchant Category
+TXN_0002924,Approved,Velocity Threshold Exceeded
+TXN_0008703,Escalated,Unusual Hour Velocity
+TXN_0006173,Approved,Cross-Region Surge
+TXN_0002540,Approved,Cross-Region Surge
+TXN_0008925,Under Review,Cross-Region Surge
+TXN_0002157,Rejected,Velocity Threshold Exceeded
+TXN_0007267,Approved,High Amount Anomaly
+TXN_0002503,Rejected,Unusual Hour Velocity
+TXN_0000396,Approved,Unusual Hour Velocity
+TXN_0005645,Rejected,Cross-Region Surge
+TXN_0002787,Under Review,High Amount Anomaly
+TXN_0002968,Escalated,High Amount Anomaly
+TXN_0000826,Escalated,High Amount Anomaly
+TXN_0002083,Under Review,High Amount Anomaly
+TXN_0004108,Under Review,Cross-Region Surge
+TXN_0009950,Approved,Cross-Region Surge
+TXN_0009828,Escalated,High Amount Anomaly
+TXN_0000560,Approved,Velocity Threshold Exceeded
+TXN_0005950,Under Review,Cross-Region Surge
+TXN_0008933,Escalated,High Amount Anomaly
+TXN_0003125,Approved,Unusual Hour Velocity
+TXN_0009359,Under Review,High Amount Anomaly
+TXN_0010894,Escalated,High Amount Anomaly
+TXN_0007207,Escalated,New Device Spike
+TXN_0001070,Under Review,Cross-Region Surge
+TXN_0004894,Approved,Cross-Region Surge
+TXN_0008353,Under Review,High Amount Anomaly
+TXN_0006198,Approved,Cross-Region Surge
+TXN_0007401,Approved,High Amount Anomaly
+TXN_0000263,Under Review,Cross-Region Surge
+TXN_0004737,Escalated,High Amount Anomaly
+TXN_0001844,Under Review,Cross-Region Surge
+TXN_0011465,Under Review,Cross-Region Surge
+TXN_0008959,Under Review,Cross-Region Surge
+TXN_0003511,Under Review,Cross-Region Surge
+TXN_0005173,Under Review,High Amount Anomaly
+TXN_0005865,Escalated,High Amount Anomaly
+TXN_0006777,Under Review,New Device Spike
+TXN_0001664,Under Review,Cross-Region Surge
+TXN_0003243,Rejected,High Amount Anomaly
+TXN_0001485,Rejected,Velocity Threshold Exceeded
+TXN_0006939,Under Review,Velocity Threshold Exceeded
+TXN_0000065,Under Review,High-Risk Merchant Category
+TXN_0002063,Under Review,Cross-Region Surge
+TXN_0008685,Under Review,High Amount Anomaly
+TXN_0001022,Under Review,Unusual Hour Velocity
+TXN_0001529,Under Review,High-Risk Merchant Category
+TXN_0001900,Approved,Unusual Hour Velocity
+TXN_0004659,Escalated,High-Risk Merchant Category
+TXN_0003006,Under Review,Cross-Region Surge
+TXN_0000190,Under Review,High-Risk Merchant Category
+TXN_0002748,Approved,High-Risk Merchant Category
+TXN_0002434,Approved,Cross-Region Surge
+TXN_0011364,Under Review,Cross-Region Surge
+TXN_0005391,Rejected,Cross-Region Surge
+TXN_0007271,Under Review,High-Risk Merchant Category
